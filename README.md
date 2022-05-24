@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Ueliton-veloso">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Ueliton-veloso&theme=radical&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueliton-veloso&layout=compact&theme=radical">
+  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api?username=Ueliton-veloso&theme=radical&show_icons=true">
+  <img height="180cm" width="450cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ueliton-veloso&layout=compact&theme=radical">
 </div>
   
 ##

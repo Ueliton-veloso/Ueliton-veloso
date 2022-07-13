@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Ueliton Veloso 👋
 - Hoje trabalho como Técnico em Informática
-- Estudando JavaScript
+- Cursando Ciência da Computação
 - Contate-me no email:wellingtontom-14@hotmail.com
 
 <div>

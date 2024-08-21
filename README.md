@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ueliton Veloso 👋
 - Hoje trabalho como Técnico em Informática
 - Cursando Ciência da Computação
-- Contate-me no email:wellingtontom-14@hotmail.com
+- Contate-me no email:velosotom54@gmail.com
 
 <div>
   <a href="https://github.com/Ueliton-veloso">
